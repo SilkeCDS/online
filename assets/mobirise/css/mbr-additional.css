@@ -1715,14 +1715,18 @@ body {
   }
 }
 .cid-qwTiAte62p {
-  background-image: url("../../../assets/images/silkezustersvanliefde.jpg");
+  background-image: url("../../../assets/images/aniamtie-wind.gif");
 }
 .cid-qwTiAte62p H1 {
-  color: #232323;
+  color: #d9cf27;
 }
 .cid-qwTiAte62p .mbr-text,
 .cid-qwTiAte62p .mbr-section-btn {
   color: #232323;
+}
+.cid-qwTiAte62p .mbr-text,
+.cid-qwTiAte62p .mbr-section-btn I {
+  color: #f9f295;
 }
 .cid-qxyVNGWGfy {
   padding-top: 90px;
@@ -2575,6 +2579,30 @@ body {
 }
 .cid-qMjmyfPOWu .mbr-section-subtitle {
   color: #767676;
+}
+.cid-qQCywFmyRl {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qQCywFmyRl .image-block {
+  margin: auto;
+}
+.cid-qQCywFmyRl .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qQCywFmyRl figcaption {
+  position: relative;
+}
+.cid-qQCywFmyRl figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qQCywFmyRl .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qMjeCedEQ0 {
   padding-top: 45px;
