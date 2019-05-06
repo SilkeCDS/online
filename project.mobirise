@@ -414,7 +414,7 @@
             "Thema"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html#gallery1-w\" data-toolbar=\"-mbrBtnMove\">2018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html#slider-11\" data-toolbar=\"-mbrBtnMove\">2019</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html#slider-11\" data-toolbar=\"-mbrBtnMove\">2018</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page2.html#gallery1-w\" data-toolbar=\"-mbrBtnMove\">2019</a>",
           "_name": "msg-box4",
           "_styles": {
             ".mbr-section-title": {
