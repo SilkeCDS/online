@@ -13,13 +13,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 46,
+    "uniqCompNum": 49,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/fotosil-128x128.png",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
@@ -303,6 +304,30 @@
           ],
           "_name": "soundcloud1",
           "_anchor": "soundcloud1-s"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=roxXfP1vSE8",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1b"
         }
       ]
     },
@@ -423,6 +448,31 @@
             }
           },
           "_anchor": "msg-box4-o"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/inprogressmotherlove-1.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1c"
         },
         {
           "_params": {
